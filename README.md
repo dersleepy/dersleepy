@@ -1,7 +1,5 @@
 ### Hallo 👋
 I am sleepy 💤
-<br>
-I am getting evaluated on my Software Project and I love it (I HATE IT, I HATE IT FROM MY BOTTOM OF MY HEART!!!) :D
 <!--
 **dersleepy/dersleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
