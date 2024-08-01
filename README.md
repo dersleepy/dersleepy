@@ -24,4 +24,4 @@ I'm a Computer Science student with a keen interest in data science and software
 - **Description**: Implemented JWT-based authentication and middleware for securing private API endpoints, ensuring authorized access and enhancing data protection.
 
 ## Contact
-For more information or collaboration opportunities, feel free to reach out to me through my [GitHub profile](https://github.com/dersleepy) or email at mostafa.rashad@student.giu-uni.de.
+For more information or collaboration opportunities, feel free to reach out to me through my [GitHub profile](github.com/dersleepy) or [Instagram profile](instagram.com/eraqyjr)
