@@ -14,7 +14,7 @@ I'm a Computer Science student with a keen interest in data science and software
 - **Description**: Developed backend services and contributed to the frontend interface. Implemented key features for user management and data synchronization.
 
 ### [Porsche Website](https://github.com/Anegm-exe/Porsche-Website)
-- **Role**: Frontend Developer/Backend Developer
+- **Role**: Frontend Developer
 - **Technologies**: C#, HTML, CSS, JavaScript
 - **Description**: Led the frontend development, implementing responsive design and user-friendly interfaces.
 
